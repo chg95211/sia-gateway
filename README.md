@@ -6,7 +6,7 @@
 
 * 微信交流：
 
-    <img src="docs/static_files/newlog.jpeg" width="30%" height="30%">
+    ![Image.png](docs/static_files/newlog.jpeg)
     
 
 # SIA-GATEWAY| [English](README-en.md) [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
@@ -57,9 +57,7 @@
 
 * 下图是一个典型的微服务架构，仅供参考
 
-<div align=center>
-<img src="docs/static_files/msa.png"/>
-</div>
+![Image.png](docs/static_files/msa.png)
 
 
 &emsp;&emsp;
